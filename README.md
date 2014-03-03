@@ -7,6 +7,8 @@ The program can run as a Client as well as server.
 
 ./Assignment <port-number-to-listen-on>
 
+To Connect, type the command: CONNECT <ip:port>
+
 The file sharing protocoli mplements the following features:
 
 1. An "IndexGet" request which can request different styles of the same index of the shared folder on the other client as listed below. The history of requests made by either clients should be maintained at each of the clients respectively.
